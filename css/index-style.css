@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1, ul {
+    color: white;
+    font-family: "Times New Roman", Georgia, sans-serif;
+}
+
+ul li a:visited{
+    font-weight: bold;
+    color: white;
+}
+
+ul li a:hover{
+    font-weight: bold;
+    color: rgb(95, 182, 228);
+}
+
+img {
+    border-image: round;
+    border: 5px solid rgb(255, 255, 255);
+}
