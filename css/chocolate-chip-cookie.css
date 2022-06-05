@@ -4,6 +4,8 @@ body {
 
 img {
     border: 5px solid white;
+    width: 780px;
+    height: auto;
 }
 
 h1, p, h2, ul, ol li {

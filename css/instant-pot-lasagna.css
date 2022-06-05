@@ -19,4 +19,6 @@ p a:hover{
 
 img {
     border: 5px solid white;
+    width: 780px;
+    height: auto;
 }
