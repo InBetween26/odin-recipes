@@ -2,10 +2,6 @@ body {
     background-color: black;
 }
 
-img {
-    border: 5px solid white;
-}
-
 h1, p, h2, ul, ol li {
     color: white;
     font-family: "Times New Roman", Georgia, sans-serif;
@@ -19,4 +15,8 @@ p a:visited{
 p a:hover{
     font-weight: bold;
     color: rgb(95, 182, 228);
+}
+
+img {
+    border: 5px solid white;
 }
